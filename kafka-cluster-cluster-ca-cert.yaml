@@ -1,0 +1,67 @@
+apiVersion: v1
+data:
+  ca.crt: LS0tLS1CRUdJTiBDRVJUSUZJQ0FURS0tLS0tCk1JSURMVENDQWhXZ0F3SUJBZ0lKQUxFT09NK0p6YjZzTUEwR0NTcUdTSWIzRFFFQkN3VUFNQzB4RXpBUkJnTlYKQkFvTUNtbHZMbk4wY21sdGVta3hGakFVQmdOVkJBTU1EV05zZFhOMFpYSXRZMkVnZGpBd0hoY05NakV3TWpFeQpNRGsxTlRJMldoY05Nakl3TWpFeU1EazFOVEkyV2pBdE1STXdFUVlEVlFRS0RBcHBieTV6ZEhKcGJYcHBNUll3CkZBWURWUVFEREExamJIVnpkR1Z5TFdOaElIWXdNSUlCSWpBTkJna3Foa2lHOXcwQkFRRUZBQU9DQVE4QU1JSUIKQ2dLQ0FRRUFzWkQyRS9SbWIzMmJOQnBGTGVHRm9WRmdxdExnaVlIcGt0RldDdENnNzg3UUJxM1hsajQycmF6ZQo4NE1PVDhaY2lwUlduYmNDaFFrWUJNZVJ3bnN1K1o4d3cwb3BRSjQvQUY5SExxRGlsWEFTZGI0UEgrTUhGOHBBCnBjb3VaVUZIcno0MDE1UndOWmFTc0ZlbEZzc0REOEhCTllwSmNlOWJyY2dGQmUwdngxa0VrUnhidHVMc1g1SUoKV0gzUktFMUtDRWl5cm1LZEFyallxTmlqSXZmSXNxVVhZZFc1K3pmU0orOXhOR3dzZ0xjZGpPai91SXk1SkNsWQplZVRyazBsMmRFY1VPb3Z5U2xqNklTRHl1bi84SHhucS9tVmRuYVZ1RFVLODZnUWQyclRwbG9CZXU0WjRsWE1nCndPcjVrUGluU2VESjA1ZDB1RFlndXo0K1BINUpOUUlEQVFBQm8xQXdUakFkQmdOVkhRNEVGZ1FVNFBTcmFaQXAKYkNLSUo0dzFmOVJYSTg2clNUTXdId1lEVlIwakJCZ3dGb0FVNFBTcmFaQXBiQ0tJSjR3MWY5UlhJODZyU1RNdwpEQVlEVlIwVEJBVXdBd0VCL3pBTkJna3Foa2lHOXcwQkFRc0ZBQU9DQVFFQWNDWDE2WXZsT1VjOGNMN0lMUFVDCnl5LzJUT2FJL0Yvb28yWHpaNGhhd0cvdDJ5N2NUSmVLQzNvSGxDUFpVOXpEV2tCdXU4b3c1dUsrdkdiVnQxUDcKTlRQTG1lRG1IeGhRaC9jRk1zdXAreW9CS3R2ZXVWcnhrM1JwVDF4REFPRXVRSFVTNGhSTTZNenhnZ1ZOTDMvaQp0dWw5S1d3ZFVscjVKNXZXSTJVTDJkQ2lOeitkRExmL0ZibldIRkVYTGtLQzN5Vk55eVpnRGlPTDZMTDdveGhJClNucVJ5OWI0dGRMNlI4ZjcrRFpia0dITExYeTcrNFdlM25RYzNtbWZzd1lXaE9vVytpaDIzUzN5ZHlQZFdMVnkKdk9tck5mUjZic1EydUF6dmI4ajZXem9sWnNPZUt2aldNMWdtdlpDYVo4UktFWFl5azVoRnRDYWlTdWVqekt6ZAo3dz09Ci0tLS0tRU5EIENFUlRJRklDQVRFLS0tLS0K
+  ca.p12: MIIEVgIBAzCCBA8GCSqGSIb3DQEHAaCCBAAEggP8MIID+DCCA/QGCSqGSIb3DQEHBqCCA+UwggPhAgEAMIID2gYJKoZIhvcNAQcBMCkGCiqGSIb3DQEMAQYwGwQUzijBz2GKYWLDgnmIIJ9EN3yt/RECAwDDUICCA6C0SG13mtQu5v3GeJ/RI+dQDnH2k80OQWq5qOTLYnom8nUp7wayYvYMvlmH8rqMiD9DTv2vIFuuh54bU9/Ptc/gTXvrb0Ljr6iVJRcLJne6UNv02TlKGwc8g67YZtmYGYnxn86q1d1iniSbyIt1BCC2qUDRfzBJk/IHwBFgTH6X9nDIlz4HMTdoNWxJ2IkTHTaaWM306f9Lwot/sD7X5/m+uk8k9qPoHaM2rRsCyxuVpF70kMiUYEVSgPmC7/9lSkuqJhs2JDe9BMSe6uv+4O6tEOpLnV2OsgtGWGqhu0qCjY8AsscBsaRbcOcXXiegCLS3qznktzOO3fCXdNlY3yeofwa96aCEFhHmmwdn2b9k6tgzN+/Y2scfD3asYj/8LnYTp2ufADr3DTMgoTkPO9rfzqHtbxklT8Mtyul5kPcd+omDCsnKAOHMhgoeEzWfMiZZHuO1wLRd/nYeP3EutCdfTLubLVaN6nrpZvGi//TEnpnpCYzWYFetpwyxQ7Kq3UVucRcG970dB98PLIJ5DN6Pbh+4D4f/jWF/j96dcFo/1j5WvqbolHY3DHHaq0GIFs3Qolw5ci0KfAFJy/hH6yTXEdZ5HXSd6qnwoycbL1EtSkABRKBFJ8ypUvN/sUrMe53gRZM0imW2KpYm81alG6+sAj/wSBhuYP8cF4yb45oQkkW3FIo794tTOnfwqPNvGfWIhvX3gGG/t+bVil3dFqfel8mXk0uXmVmqXK8NTEOjSl9USwGde87v8CbNF3fA9RpBa0/9h4MsGhrAUCKsQVU+UmMY+u6vzGzahdAesCv4FKVIsgUGb90OMA4ns8fbgKMHztSVspmf6tGO2EPHntRKs+fOHd4iNJ9ezCui1Hl4teIxso8EQdaByAYizcmRAGcwgqKQOtFZyhJR4Ebl+xyaxkyTG/tRMKn9P6bRp7HcFMiH4fpr4HjJDhme5pZlibPTHcQiDwwNZtpkWHX1aZAWzlyG4d746qw2FcI9r5lkPzuftOzNGJftEnNuQNnhT2B4j5RH11E7tL2FvN5Y6VZC3cdx7LQNQ7clXCEWhx7vE9/QfQUjEJLpm3qJ7XHcNRk/h9aaEOZPwn9yamHkib21lE/C6KZOC2nW1bLJtoh7a0G8kziSBPyfgMcFYR2ufU6OLWkmz+j/m351F8blawRLDbQxyer3We9kq09Nt3dwZMQMvTtEspNCcMc3yF1uPktzP4P8o26CPdioObjpHSqFMD4wITAJBgUrDgMCGgUABBQcwxX6nUM+h0FpNajp+9tMis8/BQQU3ZVkahrS3UXPNRgXD3zEnaQ/aB8CAwGGoA==
+  ca.password: bGs5Z1ZMTXBHSjc5
+kind: Secret
+metadata:
+  annotations:
+    strimzi.io/ca-cert-generation: "0"
+  creationTimestamp: "2021-02-12T09:55:27Z"
+  labels:
+    app.kubernetes.io/instance: kafka-cluster
+    app.kubernetes.io/managed-by: strimzi-cluster-operator
+    app.kubernetes.io/name: strimzi
+    app.kubernetes.io/part-of: strimzi-kafka-cluster
+    strimzi.io/cluster: kafka-cluster
+    strimzi.io/kind: Kafka
+    strimzi.io/name: strimzi
+  managedFields:
+  - apiVersion: v1
+    fieldsType: FieldsV1
+    fieldsV1:
+      f:data:
+        .: {}
+        f:ca.crt: {}
+        f:ca.p12: {}
+        f:ca.password: {}
+      f:metadata:
+        f:annotations:
+          .: {}
+          f:strimzi.io/ca-cert-generation: {}
+        f:labels:
+          .: {}
+          f:app.kubernetes.io/instance: {}
+          f:app.kubernetes.io/managed-by: {}
+          f:app.kubernetes.io/name: {}
+          f:app.kubernetes.io/part-of: {}
+          f:strimzi.io/cluster: {}
+          f:strimzi.io/kind: {}
+          f:strimzi.io/name: {}
+        f:ownerReferences:
+          .: {}
+          k:{"uid":"b8d43cd6-1e7d-4e8d-8f87-59fffbfe4e23"}:
+            .: {}
+            f:apiVersion: {}
+            f:blockOwnerDeletion: {}
+            f:controller: {}
+            f:kind: {}
+            f:name: {}
+            f:uid: {}
+      f:type: {}
+    manager: okhttp
+    operation: Update
+    time: "2021-02-12T09:55:27Z"
+  name: kafka-cluster-cluster-ca-cert
+  namespace: cno-system
+  ownerReferences:
+  - apiVersion: kafka.strimzi.io/v1beta1
+    blockOwnerDeletion: false
+    controller: false
+    kind: Kafka
+    name: kafka-cluster
+    uid: b8d43cd6-1e7d-4e8d-8f87-59fffbfe4e23
+  resourceVersion: "6849"
+  selfLink: /api/v1/namespaces/cno-system/secrets/kafka-cluster-cluster-ca-cert
+  uid: b6197d8c-f974-4d9b-9c00-1f370d79b807
+type: Opaque
